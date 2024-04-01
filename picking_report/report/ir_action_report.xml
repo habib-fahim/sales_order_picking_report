@@ -7,7 +7,7 @@
         <field name="report_type">qweb-pdf</field>
         <field name="report_name">picking_report.report_saleorder</field>
         <field name="report_file">picking_report.report_saleorder</field>
-        <field name="print_report_name">Picking List</field>
+        <field name="print_report_name">"Picking List"</field>
         <field name="binding_model_id" ref="sale.model_sale_order"/>
         <field name="binding_type">report</field>
     </record>
